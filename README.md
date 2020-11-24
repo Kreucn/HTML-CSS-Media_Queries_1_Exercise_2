@@ -1,1 +1,0 @@
-# HTML-CSS-Media_Quries_1_Exercise_2
